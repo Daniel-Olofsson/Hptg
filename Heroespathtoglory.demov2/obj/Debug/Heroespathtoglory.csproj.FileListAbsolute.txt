@@ -1,0 +1,98 @@
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\bin\Debug\Heroespathtoglory.exe.config
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\bin\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\bin\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.Properties.Resources.resources
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\bin\Debug\Engine.dll
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\bin\Debug\Engine.pdb
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.CopyComplete
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\obj\Debug\Heroespathtoglory.Heroespathtoglory.resources
+C:\Users\Daniel\Desktop\Heroespathtoglory\bin\Debug\Heroespathtoglory.exe.config
+C:\Users\Daniel\Desktop\Heroespathtoglory\bin\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\Heroespathtoglory\bin\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory\bin\Debug\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory\bin\Debug\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.Heroespathtoglory.resources
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\Heroespathtoglory\obj\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\bin\Debug\Heroespathtoglory.exe.config
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\bin\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\bin\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\bin\Debug\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\bin\Debug\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.Heroespathtoglory.resources
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.pdb
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\bin\Debug\Heroespathtoglory.exe.config
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\bin\Debug\Heroespathtoglory.exe
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\bin\Debug\Heroespathtoglory.pdb
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\bin\Debug\Engine.dll
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\bin\Debug\Engine.pdb
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.Heroespathtoglory.resources
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.Properties.Resources.resources
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.csproj.CopyComplete
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.exe
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\obj\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.exe.config
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\bin\Debug\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\bin\Debug\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.Heroespathtoglory.resources
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.exe.config
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.pdb
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\bin\Debug\Engine.dll
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\bin\Debug\Engine.pdb
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.Heroespathtoglory.resources
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.exe
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.pdb
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.exe.config
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.exe
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\bin\Debug\Heroespathtoglory.pdb
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\bin\Debug\Engine.dll
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\bin\Debug\Engine.pdb
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.AssemblyReference.cache
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.Heroespathtoglory.resources
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.Properties.Resources.resources
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.GenerateResource.cache
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.csproj.CopyComplete
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.exe
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\obj\Debug\Heroespathtoglory.pdb

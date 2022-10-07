@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebc18346-ae08-456e-98be-87b3687eadd6": {
+      "ProjectGuid": "ebc18346-ae08-456e-98be-87b3687eadd6",
+      "DisplayName": "Heroespathtoglory",
+      "ColorIndex": 0
+    },
+    "d954f55c-0249-49e8-81d7-fa38b52f2f5c": {
+      "ProjectGuid": "d954f55c-0249-49e8-81d7-fa38b52f2f5c",
+      "DisplayName": "Engine",
+      "ColorIndex": 1
+    },
+    "92cf7aea-be9c-4000-b69b-68d062cf4cf4": {
+      "ProjectGuid": "92cf7aea-be9c-4000-b69b-68d062cf4cf4",
+      "DisplayName": "Engine",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

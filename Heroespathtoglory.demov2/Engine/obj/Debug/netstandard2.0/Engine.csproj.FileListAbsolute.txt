@@ -1,0 +1,70 @@
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\C#\C#\Tutorial\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory\Engine\obj\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.pdb
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Victor\source\repos\Heroespathtoglory.demo\Engine\obj\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Daniel\Desktop\Game Folder c#\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.pdb
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Danie\Desktop\Heroespathtoglory.demov2\Engine\obj\Debug\netstandard2.0\Engine.pdb
